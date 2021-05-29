@@ -2,7 +2,7 @@
 
 This is a template repository for developing Java applications with Quarkus framework.
 
-## Usage
+## Usage
 
 - Click `Use this Template` button to create your repository
 - Checkout your repository
